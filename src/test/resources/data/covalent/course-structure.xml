@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?><ns8:push-course-structure-message xmlns:ns4="http://cengage.com/analytics/common/types/" xmlns:ns8="http://cengage.com/analytics/cms/types/">
+  <ns8:structure ns8:course-structure-uri="mindtap:qa-automation:staging:course-structure:95cec08f-1fc8-4c8c-a257-a5a00c117cbb" ns8:label="CAP Engagement Report Testing">
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761708" ns8:label="Diagnosis and Treatment of the Skeletal System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fbcbe4b01fe4ca286675" ns8:label="Comprehensive Review Quiz">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761913</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761692" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab12b9e4b03f0a60bf3dbe" ns8:label="Quick Check 5-5 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761742</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaeac8e4b04ece7ce2d9f8" ns8:label="Quick Check 1-5 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761672</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab11e5e4b0c23e24323ce6" ns8:label="Quick Check 5-4 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761739</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761853" ns8:label="Pathology">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abdec7e4b00152c3f4d179" ns8:label="Quick Check 7-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761770</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:111" ns8:label="Chapter 12 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761806" ns8:label="Diagnosis and Treatment of the Urinary System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf791e4b06c3b0ffa1384" ns8:label="Quick Check 15-5 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761904</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab09a4e4b00eb20ac593ba" ns8:label="Quick Check 4-5 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761725</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761719" ns8:label="Function, Structure and Specialties">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf58ce4b04ed2689eea2d" ns8:label="Quick Check 12-5 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761856</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761698" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761697</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761869" ns8:label="The Glands">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf745e4b03f0a60bf3dd1" ns8:label="Quick Check 15-2 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761898</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761785" ns8:label="Function, Structure and Specialties">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761711" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:507bffde0a2d257d62008a7a" ns8:label="Chapter 13 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761759" ns8:label="Pathogenic Organisms and Oncology">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab12d7e4b0cce625e0e3f5" ns8:label="Quick Check 5-6 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761742</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761796" ns8:label="Chapter 8 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761822" ns8:label="Diagnosis and Treatment of the Nervous System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54aaee08e4b04ed2689eea12" ns8:label="Word Part Practice">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761697</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761689" ns8:label="Pathology">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fc5ee4b084c9417da64d" ns8:label="Chapter 12 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761825" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761747" ns8:label="Chapter 5 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761840" ns8:label="Pathology, Diagnosis and Treatment of the Ears">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf729e4b0fc782bcf1c86" ns8:label="Quick Check 15-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761898</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761756" ns8:label="Functions, Structure, Pathology, Diagnosis and Treatment of the Immune System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abe794e4b078cb6fe355d5" ns8:label="Quick Check 8-6 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761791</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761763" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761887" ns8:label="Pathology, Diagnosis and Treatment of the Female Reproductive System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761836" ns8:label="Pathology, Diagnosis and Treatment of the Eyes">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761779" ns8:label="Chapter 7 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761778" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fd05e4b01fe4ca286677" ns8:label="Chapter 7 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab119fe4b028e51928ebb6" ns8:label="Quick Check 5-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761736</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761728" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761666" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761777" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abd828e4b0c23e24323cf5" ns8:label="Quick Check 6-3 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761756</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:507bd45cdf50175aa1c3045a" ns8:label="Chapter 2 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761859" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaed47e4b078cb6fe355c2" ns8:label="Quick Check 2-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761683</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:509ad0ba20509ef8676d41e2" ns8:label="Quick Check 9-4 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761806</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:507bf4757bc4ee013754c249" ns8:label="Chapter 9 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf573e4b06c3b0ffa1382" ns8:label="Quick Check 12-4 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761856</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:509ad52520509ef8676d41e9" ns8:label="Quick Check Review: CR-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761913</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf3dde4b0c23e24323cf8" ns8:label="Quick Check 11-2 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761833</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761860" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761803" ns8:label="Pathology">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761874" ns8:label="Chapter 13 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761670" ns8:label="Medical Dictionary Use, Pronunciation, Spelling, Abbreviations and Singular &amp; Plural Endings">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:509ad0a062c4eb461edefa32" ns8:label="Quick Check 9-3 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761806</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761693" ns8:label="Chapter 2 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761730" ns8:label="Chapter 4 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:106" ns8:label="Chapter 7 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf3cde4b06c3b0ffa1380" ns8:label="Quick Check 11-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761833</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaed58e4b0c23e24323ce0" ns8:label="Quick Check 2-2 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761683</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf7a2e4b0e0e0833e3474" ns8:label="Quick Check 15-6 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761904</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab11d1e4b00152c3f4d169" ns8:label="Quick Check 5-3 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761739</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761817" ns8:label="Function, Structure and Specialties">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:507bf6680a2d257d62008a77" ns8:label="Chapter 10 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abe760e4b00eb20ac593d0" ns8:label="Quick Check 8-4 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761788</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaee5be4b03ccf94c6dff2" ns8:label="Quick Check 3-2 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761705</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:5078c0e47bc4ee013754c241" ns8:label="Chapter 1 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fcbce4b022062f15b108" ns8:label="Chapter 9 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf315e4b06c3b0ffa137f" ns8:label="Quick Check 10-3 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761819</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fbf0e4b092bad3b7bdd4" ns8:label="Chapter 15 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761809" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:100" ns8:label="Chapter 1 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761844" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761901" ns8:label="Laboratory Tests, Endoscopy and Centesis">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:101" ns8:label="Chapter 2 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fd49e4b03a6273c9f304" ns8:label="Chapter 5 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaed87e4b028e51928ebb2" ns8:label="Quick Check 2-4 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761686</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:5421d53ae4b0958e2bdbdd17" ns8:label="Chapter 5 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761762" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761904" ns8:label="Imaging Techniques, Pharmacology, and Complementary and Alternative Medicine">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab097ce4b04ece7ce2d9fb" ns8:label="Quick Check 4-3 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761722</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761784" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761702" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:107" ns8:label="Chapter 8 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abe721e4b0a3ad7d517800" ns8:label="Quick Check 8-2 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761785</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761746" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761712" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaee37e4b078cb6fe355c4" ns8:label="Quick Check 3-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761703</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761764" ns8:label="Chapter 6 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:507bfea82050eab2e3aed399" ns8:label="Chapter 12 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761703" ns8:label="Function, Structure and Specialties">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761772" ns8:label="Pathology">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761791" ns8:label="Diagnosis and Treatment of the Digestive System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf5d3e4b0cce625e0e406" ns8:label="Quick Check 13-2 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761869</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:102" ns8:label="Chapter 3 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761861" ns8:label="Chapter 12 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761879" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf2b0e4b0e0e0833e3470" ns8:label="Quick Check 10-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761817</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761826" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761907" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761769" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761897" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761833" ns8:label="Function, Structure and Specialties Related to the Eyes">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf443e4b00152c3f4d17d" ns8:label="Quick Check 11-5 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761840</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf344e4b04ed2689eea2b" ns8:label="Quick Check 10-4 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761822</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fb7ce4b0efa1ec8d206d" ns8:label="Chapter 3 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:507bf221eb4cb7043955ac5a" ns8:label="Chapter 8 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761811" ns8:label="Chapter 9 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf4c4e4b0ee069b73d031" ns8:label="Quick Check 12-2 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761853</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fb9fe4b0629a064fed62" ns8:label="Word Part Post-Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761697</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761819" ns8:label="Pathology">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761908" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761742" ns8:label="Diagnosis and Treatment of the Cardiovascular System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abdee2e4b0c23e24323cf6" ns8:label="Quick Check 7-2 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761772</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:112" ns8:label="Chapter 13 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abd949e4b0383aff0df955" ns8:label="Quick Check 6-6 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761759</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761729" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fcdee4b015d514ee6a8e" ns8:label="Chapter 8 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abd839e4b00eb20ac593ce" ns8:label="Quick Check 6-4 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761756</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abdf11e4b0ee069b73d02f" ns8:label="Quick Check 7-4 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761775</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf760e4b0ee069b73d034" ns8:label="Quick Check 15-3 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761901</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abe74ee4b05a1359ded098" ns8:label="Quick Check 8-3 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761788</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761677" ns8:label="Chapter 1 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf648e4b0c23e24323cf9" ns8:label="Quick Check 14-3 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761884</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761713" ns8:label="Chapter 3 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761843" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761890" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761866" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:104" ns8:label="Chapter 5 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:507c04c720b3d168b3727556" ns8:label="Chapter 15 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf3ffe4b028e51928ebca" ns8:label="Quick Check 11-3 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761836</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761909" ns8:label="Chapter 15 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761827" ns8:label="Chapter 10 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761832" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761672" ns8:label="Look-Alike and Sound-Alike Terms and Word Parts">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761794" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf4d4e4b03f0a60bf3dcf" ns8:label="Quick Check 12-3 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761853</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761802" ns8:label="Function, Structure and Specialties">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf302e4b06c3b0ffa137e" ns8:label="Quick Check 10-2 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761819</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaee6ce4b03ccf94c6dff3" ns8:label="Quick Check 3-3 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761705</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761770" ns8:label="Function, Structure and Specialties">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf454e4b04ed2689eea2c" ns8:label="Quick Check 11-6 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761840</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abe710e4b0383aff0df957" ns8:label="Quick Check 8-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761785</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761881" ns8:label="Pathology, Diagnosis and Treatment of the Male Reproductive System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761725" ns8:label="Diagnosis and Treatment of the Muscular System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761873" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab1a02e4b0383aff0df948" ns8:label="Quick Check 6-2 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761753</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761722" ns8:label="Pathology">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:507bdb962050eab2e3aed393" ns8:label="Chapter 4 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:110" ns8:label="Chapter 11 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761898" ns8:label="Basic Examination Procedures and Positions">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaeda5e4b0c23e24323ce1" ns8:label="Quick Check 2-5 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761689</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761880" ns8:label="Function, Structure and Specialties of the Male Reproductive System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761839" ns8:label="Function, Structure and Specialties Related to the Ears">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761795" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761845" ns8:label="Chapter 11 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761872" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaea93e4b00152c3f4d161" ns8:label="Quick Check 1-3 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761670</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaee96e4b0fc782bcf1c69" ns8:label="Quick Check 3-5 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761708</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:507beb6e20b3d168b3727550" ns8:label="Chapter 6 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761891" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761775" ns8:label="Diagnosis and Treatment of the Respiratory System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf682e4b06c3b0ffa1383" ns8:label="Quick Check 14-5 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761887</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761686" ns8:label="Structures of the Body">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:flash-cards:activity-id:110761892" ns8:label="Chapter 14 Flashcards">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:flash-cards</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761801" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54f5fabfe4b092bad3b7bdd1" ns8:label="Chapter 7 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761884" ns8:label="Function, Structure and Specialties of the Female Reproductive System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fd26e4b02d38301a49bc" ns8:label="Chapter 6 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:113" ns8:label="Chapter 14 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf614e4b03f0a60bf3dd0" ns8:label="Quick Check 14-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761881</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:108" ns8:label="Chapter 9 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:507eebe9df5013fb30d6c29e" ns8:label="Quick Check Review: CR-2 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761913</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf771e4b0407801211cd2" ns8:label="Quick Check 15-4 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761901</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:509ad08f380ba9b3477700aa" ns8:label="Quick Check 9-2 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761803</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:507bfb627bc4ee013754c24a" ns8:label="Chapter 11 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761867" ns8:label="Function, Structure, Specialties and Pathology">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab0961e4b0407801211cbb" ns8:label="Quick Check 4-2 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761719</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761739" ns8:label="Pathology">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:105" ns8:label="Chapter 6 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761735" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaea62e4b078cb6fe355c1" ns8:label="Quick Check 1-2 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761667</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf6a6e4b03ccf94c6e00e" ns8:label="Quick Check 14-6 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761887</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:103" ns8:label="Chapter 4 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf5e4e4b04ece7ce2da09" ns8:label="Quick Check 13-3 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761869</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761856" ns8:label="Diagnosis and Treatment of the Skin: The Integumentary System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:507bd4c60a2d257d62008a72" ns8:label="Chapter 2 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fc7de4b015d514ee6a8d" ns8:label="Chapter 11 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761736" ns8:label="Function, Structure and Specialties">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf626e4b00152c3f4d17e" ns8:label="Quick Check 14-2 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761881</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761705" ns8:label="Pathology">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761753" ns8:label="Specialties, Functions, Structures and Pathology of the Lymphatic System">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:5078c12b62c419a831ef9604" ns8:label="Chapter 1 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab09b4e4b05a1359ded08c" ns8:label="Quick Check 4-6 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761725</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fc9de4b0c8a71d909ca6" ns8:label="Chapter 10 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abe784e4b0407801211cd0" ns8:label="Quick Check 8-5 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761791</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761675" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761914" ns8:label="Overview of Comprehensive Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761913</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf48ce4b028e51928ebcb" ns8:label="Quick Check 12-1 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761851</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fb5be4b065eb398c8a26" ns8:label="Chapter 4 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaee86e4b0c10d33f8d721" ns8:label="Quick Check 3-4 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761708</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abd935e4b0fc782bcf1c85" ns8:label="Quick Check 6-5 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761759</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaed76e4b0cce625e0e3f2" ns8:label="Quick Check 2-3 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761686</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaea4ee4b03ccf94c6dff1" ns8:label="Quick Check 1-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761667</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761850" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf5b5e4b0a3ad7d517804" ns8:label="Quick Check 13-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761867</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761718" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761683" ns8:label="Anatomic Reference Systems">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:507c01c520b3d168b3727555" ns8:label="Chapter 14 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761810" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54aaeab6e4b0a3ad7d5177f3" ns8:label="Quick Check 1-4 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761672</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761745" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab11afe4b0e0e0833e345e" ns8:label="Quick Check 5-2 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761736</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761734</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761752" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:507bd48d2050eab2e3aed392" ns8:label="Chapter 3 Homework">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761701</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761851" ns8:label="Function, Structure and Specialties">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761849</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab094fe4b04ed2689eea18" ns8:label="Quick Check 4-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761719</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761676" ns8:label="Chapter Review">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:114" ns8:label="Chapter 15 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761896</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fc38e4b022062f15b107" ns8:label="Chapter 13 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761865</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab19d0e4b06c3b0ffa136e" ns8:label="Quick Check 6-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761753</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761751</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:54f5fc13e4b01fe4ca286676" ns8:label="Chapter 14 Test">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761682" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abdef4e4b06c3b0ffa137c" ns8:label="Quick Check 7-3 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761772</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761768</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761691" ns8:label="Abbreviations">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761681</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761667" ns8:label="Primary Terms and Word Parts">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761665</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:509ad078380ba9b3477700a8" ns8:label="Quick Check 9-1 - Spelling Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761803</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761800</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761788" ns8:label="Pathology">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761783</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:assessment:ref-id:109" ns8:label="Chapter 10 Learning Lab">
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:assessment</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:gradable</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:reading:activity-id:110761816" ns8:label="Introduction">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:reading</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf424e4b06c3b0ffa1381" ns8:label="Quick Check 11-4 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761836</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761831</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf355e4b0a3ad7d517803" ns8:label="Quick Check 10-5 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761815</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761822</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54ab098be4b0407801211cbc" ns8:label="Quick Check 4-4 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761717</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761722</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity ns8:activity-uri="mindtap:activity:homework:ref-id:54abf659e4b0cce625e0e407" ns8:label="Quick Check 14-4 - Building Terms">
+      <ns8:activity-group-uri>mindtap:activity-group:learning-path:id:110761664</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:gradability:non-gradable</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity-type:homework</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:learning-unit:id:110761878</ns8:activity-group-uri>
+      <ns8:activity-group-uri>mindtap:activity-group:activity:id:110761884</ns8:activity-group-uri>
+    </ns8:activity>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761853" ns8:label="Pathology" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761697" ns8:label="Word Part Review" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761770" ns8:label="Function, Structure and Specialties" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761785" ns8:label="Function, Structure and Specialties" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761686" ns8:label="Structures of the Body" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761913" ns8:label="Comprehensive Review" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761734" ns8:label="Chapter 5: The Cardiovascular System" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:study-guide" ns8:label="Study Guide" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761742" ns8:label="Diagnosis and Treatment of the Cardiovascular System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761772" ns8:label="Pathology" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761670" ns8:label="Medical Dictionary Use, Pronunciation, Spelling, Abbreviations and Singular &amp; Plural Endings" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761751" ns8:label="Chapter 6: The Lymphatic and Immune Systems" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:other" ns8:label="Other" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761719" ns8:label="Function, Structure and Specialties" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761851" ns8:label="Function, Structure and Specialties" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:kaltura" ns8:label="Kaltura" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761878" ns8:label="Chapter 14: The Reproductive Systems" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761887" ns8:label="Pathology, Diagnosis and Treatment of the Female Reproductive System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761896" ns8:label="Chapter 15: Diagnostic Procedures and Pharmacology" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761898" ns8:label="Basic Examination Procedures and Positions" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761681" ns8:label="Chapter 2: The Human Body in Health and Disease" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:gradability:gradable" ns8:label="Gradable" type="mindtap:activity-group-type:gradability"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761869" ns8:label="The Glands" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761904" ns8:label="Imaging Techniques, Pharmacology, and Complementary and Alternative Medicine" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761788" ns8:label="Pathology" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:flash-cards" ns8:label="Flash Cards" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:gradability:non-gradable" ns8:label="Non Gradable" type="mindtap:activity-group-type:gradability"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761806" ns8:label="Diagnosis and Treatment of the Urinary System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:rss-feed" ns8:label="RSS Feed" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761884" ns8:label="Function, Structure and Specialties of the Female Reproductive System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761849" ns8:label="Chapter 12: Skin: The Integumentary System" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761753" ns8:label="Specialties, Functions, Structures and Pathology of the Lymphatic System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761689" ns8:label="Pathology" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761865" ns8:label="Chapter 13: The Endocrine System" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761736" ns8:label="Function, Structure and Specialties" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761833" ns8:label="Function, Structure and Specialties Related to the Eyes" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:reading" ns8:label="Reading" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761867" ns8:label="Function, Structure, Specialties and Pathology" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761819" ns8:label="Pathology" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761791" ns8:label="Diagnosis and Treatment of the Digestive System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761683" ns8:label="Anatomic Reference Systems" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:concept-map" ns8:label="Concept Map" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761815" ns8:label="Chapter 10: The Nervous System" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761665" ns8:label="Chapter 1: Introduction to Medical Terminology" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761775" ns8:label="Diagnosis and Treatment of the Respiratory System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761901" ns8:label="Laboratory Tests, Endoscopy and Centesis" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761800" ns8:label="Chapter 9: The Urinary System" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-path:id:110761664" ns8:label="Medical Terminology for Health Professions" type="mindtap:activity-group-type:learning-path"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761722" ns8:label="Pathology" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:google-docs" ns8:label="Google Docs" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761822" ns8:label="Diagnosis and Treatment of the Nervous System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761817" ns8:label="Function, Structure and Specialties" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761739" ns8:label="Pathology" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761708" ns8:label="Diagnosis and Treatment of the Skeletal System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761667" ns8:label="Primary Terms and Word Parts" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761717" ns8:label="Chapter 4: The Muscular System" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761672" ns8:label="Look-Alike and Sound-Alike Terms and Word Parts" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761756" ns8:label="Functions, Structure, Pathology, Diagnosis and Treatment of the Immune System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761831" ns8:label="Chapter 11: The Special Senses: Eyes and Ears" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:web-link" ns8:label="Web Links" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:homework" ns8:label="Homework" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761856" ns8:label="Diagnosis and Treatment of the Skin: The Integumentary System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761881" ns8:label="Pathology, Diagnosis and Treatment of the Male Reproductive System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761759" ns8:label="Pathogenic Organisms and Oncology" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761725" ns8:label="Diagnosis and Treatment of the Muscular System" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761836" ns8:label="Pathology, Diagnosis and Treatment of the Eyes" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:assessment" ns8:label="Assessment" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761705" ns8:label="Pathology" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761701" ns8:label="Chapter 3: Skeletal System" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761703" ns8:label="Function, Structure and Specialties" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity-type:media" ns8:label="Media" type="mindtap:activity-group-type:activity-type"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761768" ns8:label="Chapter 7: The Respiratory System" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761803" ns8:label="Pathology" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:activity:id:110761840" ns8:label="Pathology, Diagnosis and Treatment of the Ears" type="mindtap:activity-group-type:activity"/>
+    <ns8:activity-group ns8:activity-group-uri="mindtap:activity-group:learning-unit:id:110761783" ns8:label="Chapter 8: The Digestive System" type="mindtap:activity-group-type:learning-unit"/>
+    <ns8:external-property xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" external-property-uri="mindtap:property:sso-isbn" value="9781285172040" xsi:type="ns4:UriExternalProperty"/>
+    <ns8:external-property xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" external-property-uri="mindtap:property:core-text:isbn" value="9781111543273" xsi:type="ns4:UriExternalProperty"/>
+  </ns8:structure>
+</ns8:push-course-structure-message>

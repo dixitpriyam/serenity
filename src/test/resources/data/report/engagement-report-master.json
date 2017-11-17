@@ -1,0 +1,533 @@
+{
+  "report": {
+    "courseUri": "mindtap:qa-automation:staging:course:738e9a60-5d03-11e7-8163-bfb29cd5e3f2",
+    "generationDate": 1498767600427,
+    "archiveDate": null,
+    "preaggregated": false,
+    "averageScore": 0.9018021987634531,
+    "averageEngagementScore": 0.40087536962825504,
+    "averageSecondsVisited": 162332.5,
+    "averageLogins": 69.2,
+    "averageActivitiesVisited": {
+      "scaledScore": 57.1,
+      "possibleScore": 236.0
+    },
+    "activitiesInScope": 236,
+    "lowToMediumEngagementScoreThreshold": 0.31,
+    "mediumToHighEngagementScoreThreshold": 0.71,
+    "lowToMediumPerformanceLevelThreshold": 0.7,
+    "mediumToHighPerformanceLevelThreshold": 0.9,
+    "studentDetails": [
+      {
+        "identifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:10d2",
+        "score": 0.963533443005117,
+        "engagementScoreInfo": {
+          "engagementScoreTotal": 0.31310215967054955,
+          "engagementScorePercentile": 0.3,
+          "engagementCategory": "MEDIUM",
+          "metricIdToNormalizedEngagementScoreMap": {
+            "ASSIGNMENTS_SCORE": 0.0,
+            "ASSIGNMENT_INVOCATIONS": 0.04938693865436335,
+            "LOGINS": 0.0787559834488284,
+            "PRACTICE_ACTIVITIES": 0.0,
+            "READING_ACTIVITIES": 0.05275404337669198,
+            "TIME_IN_MIND_TAP": 0.08777352294589547,
+            "TOTAL_ACTIVITIES": 0.04443167124477035
+          }
+        },
+        "secondsVisited": 127688.0,
+        "activitiesVisited": {
+          "scaledScore": 64.0,
+          "possibleScore": 236.0
+        },
+        "loginCount": 53,
+        "firstLogin": 1498766241313,
+        "lastLogin": 1498766479313,
+        "activityAccessSummaries": [
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:assessment",
+            "activitiesAccessCount": 14.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:homework",
+            "activitiesAccessCount": 3.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:reading",
+            "activitiesAccessCount": 46.0
+          }
+        ],
+        "performanceLevel": "HIGH"
+      },
+      {
+        "identifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1193",
+        "score": 0.8247058755873413,
+        "engagementScoreInfo": {
+          "engagementScoreTotal": 0.6871270638023629,
+          "engagementScorePercentile": 1.0,
+          "engagementCategory": "MEDIUM",
+          "metricIdToNormalizedEngagementScoreMap": {
+            "ASSIGNMENTS_SCORE": 0.0,
+            "ASSIGNMENT_INVOCATIONS": 0.154,
+            "FLASHCARDS": 0.07316639573567447,
+            "HIGHLIGHTS": 0.04867328302979894,
+            "LOGINS": 0.10711192338258638,
+            "PRACTICE_ACTIVITIES": 0.0,
+            "READING_ACTIVITIES": 0.06212977372242257,
+            "SEARCHES": 0.04867328302979894,
+            "TIME_IN_MIND_TAP": 0.12007458440446382,
+            "TOTAL_ACTIVITIES": 0.07329782049761781
+          }
+        },
+        "secondsVisited": 228903.0,
+        "activitiesVisited": {
+          "scaledScore": 77.0,
+          "possibleScore": 236.0
+        },
+        "loginCount": 88,
+        "firstLogin": 1498766484313,
+        "lastLogin": 1498766819313,
+        "activityAccessSummaries": [
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:assessment",
+            "activitiesAccessCount": 25.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:homework",
+            "activitiesAccessCount": 10.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:reading",
+            "activitiesAccessCount": 42.0
+          }
+        ],
+        "performanceLevel": "MEDIUM"
+      },
+      {
+        "identifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1213",
+        "score": 0.8911062161760969,
+        "engagementScoreInfo": {
+          "engagementScoreTotal": 0.475032950986713,
+          "engagementScorePercentile": 0.8,
+          "engagementCategory": "MEDIUM",
+          "metricIdToNormalizedEngagementScoreMap": {
+            "ASSIGNMENTS_SCORE": 0.0,
+            "ASSIGNMENT_INVOCATIONS": 0.154,
+            "FLASHCARDS": 0.030297139202127225,
+            "LOGINS": 0.12948917725814485,
+            "PRACTICE_ACTIVITIES": 0.0,
+            "READING_ACTIVITIES": 0.009611654433693044,
+            "TIME_IN_MIND_TAP": 0.09734656605959788,
+            "TOTAL_ACTIVITIES": 0.054288414033149955
+          }
+        },
+        "secondsVisited": 151312.0,
+        "activitiesVisited": {
+          "scaledScore": 44.0,
+          "possibleScore": 236.0
+        },
+        "loginCount": 136,
+        "firstLogin": 1498765842313,
+        "lastLogin": 1498766471313,
+        "activityAccessSummaries": [
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:assessment",
+            "activitiesAccessCount": 28.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:homework",
+            "activitiesAccessCount": 11.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:reading",
+            "activitiesAccessCount": 5.0
+          }
+        ],
+        "performanceLevel": "MEDIUM"
+      },
+      {
+        "identifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1494",
+        "score": 0.9494237738571174,
+        "engagementScoreInfo": {
+          "engagementScoreTotal": 0.4033159413538741,
+          "engagementScorePercentile": 0.7,
+          "engagementCategory": "MEDIUM",
+          "metricIdToNormalizedEngagementScoreMap": {
+            "ASSIGNMENTS_SCORE": 0.0,
+            "ASSIGNMENT_INVOCATIONS": 0.08701508239102115,
+            "LOGINS": 0.10517199829309871,
+            "PRACTICE_ACTIVITIES": 0.0,
+            "READING_ACTIVITIES": 0.04867328302979894,
+            "TIME_IN_MIND_TAP": 0.10764508144154489,
+            "TOTAL_ACTIVITIES": 0.05481049619841037
+          }
+        },
+        "secondsVisited": 181669.0,
+        "activitiesVisited": {
+          "scaledScore": 54.0,
+          "possibleScore": 236.0
+        },
+        "loginCount": 85,
+        "firstLogin": 1498766397313,
+        "lastLogin": 1498766754313,
+        "activityAccessSummaries": [
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:assessment",
+            "activitiesAccessCount": 18.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:homework",
+            "activitiesAccessCount": 4.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:reading",
+            "activitiesAccessCount": 31.0
+          }
+        ],
+        "performanceLevel": "HIGH"
+      },
+      {
+        "identifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1574",
+        "score": 0.9700449447309456,
+        "engagementScoreInfo": {
+          "engagementScoreTotal": 0.3408123198459227,
+          "engagementScorePercentile": 0.5,
+          "engagementCategory": "MEDIUM",
+          "metricIdToNormalizedEngagementScoreMap": {
+            "ASSIGNMENTS_SCORE": 0.0,
+            "ASSIGNMENT_INVOCATIONS": 0.12934674409476118,
+            "LOGINS": 0.07129078846337741,
+            "PRACTICE_ACTIVITIES": 0.0,
+            "READING_ACTIVITIES": 0.019319651612434187,
+            "TIME_IN_MIND_TAP": 0.07877681245051762,
+            "TOTAL_ACTIVITIES": 0.04207832322483229
+          }
+        },
+        "secondsVisited": 108414.0,
+        "activitiesVisited": {
+          "scaledScore": 43.0,
+          "possibleScore": 236.0
+        },
+        "loginCount": 46,
+        "firstLogin": 1498766811313,
+        "lastLogin": 1498766965313,
+        "activityAccessSummaries": [
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:assessment",
+            "activitiesAccessCount": 25.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:homework",
+            "activitiesAccessCount": 8.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:reading",
+            "activitiesAccessCount": 9.0
+          }
+        ],
+        "performanceLevel": "HIGH"
+      },
+      {
+        "identifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:7e9",
+        "score": 0.8494315373829945,
+        "engagementScoreInfo": {
+          "engagementScoreTotal": 0.3451402686397168,
+          "engagementScorePercentile": 0.6,
+          "engagementCategory": "MEDIUM",
+          "metricIdToNormalizedEngagementScoreMap": {
+            "ASSIGNMENTS_SCORE": 0.0,
+            "ASSIGNMENT_INVOCATIONS": 0.06820101052269226,
+            "LOGINS": 0.07016551030915495,
+            "PRACTICE_ACTIVITIES": 0.0,
+            "READING_ACTIVITIES": 0.055303764739688205,
+            "TIME_IN_MIND_TAP": 0.10279670003838245,
+            "TOTAL_ACTIVITIES": 0.04867328302979894
+          }
+        },
+        "secondsVisited": 166617.0,
+        "activitiesVisited": {
+          "scaledScore": 76.0,
+          "possibleScore": 236.0
+        },
+        "loginCount": 45,
+        "firstLogin": 1498765511313,
+        "lastLogin": 1498765803313,
+        "activityAccessSummaries": [
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:assessment",
+            "activitiesAccessCount": 16.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:homework",
+            "activitiesAccessCount": 7.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:reading",
+            "activitiesAccessCount": 51.0
+          }
+        ],
+        "performanceLevel": "MEDIUM"
+      },
+      {
+        "identifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:956",
+        "score": 0.9498003587755337,
+        "engagementScoreInfo": {
+          "engagementScoreTotal": 0.3221799587360089,
+          "engagementScorePercentile": 0.4,
+          "engagementCategory": "MEDIUM",
+          "metricIdToNormalizedEngagementScoreMap": {
+            "ASSIGNMENTS_SCORE": 0.0,
+            "ASSIGNMENT_INVOCATIONS": 0.08936684137456227,
+            "LOGINS": 0.07564287312160221,
+            "PRACTICE_ACTIVITIES": 0.0,
+            "READING_ACTIVITIES": 0.02871414043397468,
+            "TIME_IN_MIND_TAP": 0.0893391278094812,
+            "TOTAL_ACTIVITIES": 0.039116975996388505
+          }
+        },
+        "secondsVisited": 131308.0,
+        "activitiesVisited": {
+          "scaledScore": 42.0,
+          "possibleScore": 236.0
+        },
+        "loginCount": 50,
+        "firstLogin": 1498765808313,
+        "lastLogin": 1498766051313,
+        "activityAccessSummaries": [
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:assessment",
+            "activitiesAccessCount": 21.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:homework",
+            "activitiesAccessCount": 7.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:reading",
+            "activitiesAccessCount": 14.0
+          }
+        ],
+        "performanceLevel": "HIGH"
+      },
+      {
+        "identifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:e56",
+        "score": 0.7850010821582727,
+        "engagementScoreInfo": {
+          "engagementScoreTotal": 0.2993428565242871,
+          "engagementScorePercentile": 0.1,
+          "engagementCategory": "LOW",
+          "metricIdToNormalizedEngagementScoreMap": {
+            "ASSIGNMENTS_SCORE": 0.0,
+            "ASSIGNMENT_INVOCATIONS": 0.09171860035810338,
+            "FLASHCARDS": 0.030297139202127225,
+            "LOGINS": 0.06430526588051802,
+            "PRACTICE_ACTIVITIES": 0.0,
+            "READING_ACTIVITIES": 0.016698258892195224,
+            "TIME_IN_MIND_TAP": 0.061385993414325504,
+            "TOTAL_ACTIVITIES": 0.03493759877701773
+          }
+        },
+        "secondsVisited": 76944.0,
+        "activitiesVisited": {
+          "scaledScore": 29.0,
+          "possibleScore": 236.0
+        },
+        "loginCount": 40,
+        "firstLogin": 1498766055313,
+        "lastLogin": 1498766235313,
+        "activityAccessSummaries": [
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:assessment",
+            "activitiesAccessCount": 16.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:homework",
+            "activitiesAccessCount": 7.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:reading",
+            "activitiesAccessCount": 6.0
+          }
+        ],
+        "performanceLevel": "MEDIUM"
+      },
+      {
+        "identifier": "dd1a64a2698c24bf:-16044e77:15a3ddc4023:7da",
+        "score": 0.9695180971023,
+        "engagementScoreInfo": {
+          "engagementScoreTotal": 0.5200555006649865,
+          "engagementScorePercentile": 0.9,
+          "engagementCategory": "MEDIUM",
+          "metricIdToNormalizedEngagementScoreMap": {
+            "ASSIGNMENTS_SCORE": 0.0,
+            "ASSIGNMENT_INVOCATIONS": 0.08936684137456227,
+            "FLASHCARDS": 0.04867328302979894,
+            "LOGINS": 0.09734656605959788,
+            "PRACTICE_ACTIVITIES": 0.0,
+            "READING_ACTIVITIES": 0.07494231163535478,
+            "TIME_IN_MIND_TAP": 0.13773555360458314,
+            "TOTAL_ACTIVITIES": 0.07199094496108953
+          }
+        },
+        "secondsVisited": 340145.0,
+        "activitiesVisited": {
+          "scaledScore": 115.0,
+          "possibleScore": 236.0
+        },
+        "loginCount": 74,
+        "firstLogin": 1498766576313,
+        "lastLogin": 1498766842313,
+        "activityAccessSummaries": [
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:assessment",
+            "activitiesAccessCount": 16.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:homework",
+            "activitiesAccessCount": 7.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:reading",
+            "activitiesAccessCount": 90.0
+          }
+        ],
+        "performanceLevel": "HIGH"
+      },
+      {
+        "identifier": "dd1a64a2698c24bf:-16044e77:15a3ddc4023:8cf",
+        "score": 0.865456658858812,
+        "engagementScoreInfo": {
+          "engagementScoreTotal": 0.30264467605812856,
+          "engagementScorePercentile": 0.2,
+          "engagementCategory": "LOW",
+          "metricIdToNormalizedEngagementScoreMap": {
+            "ASSIGNMENTS_SCORE": 0.0,
+            "ASSIGNMENT_INVOCATIONS": 0.09171860035810338,
+            "LOGINS": 0.09810700334274845,
+            "PRACTICE_ACTIVITIES": 0.0,
+            "READING_ACTIVITIES": 0.003347287089066746,
+            "TIME_IN_MIND_TAP": 0.07972087216561737,
+            "TOTAL_ACTIVITIES": 0.029750913102592615
+          }
+        },
+        "secondsVisited": 110325.0,
+        "activitiesVisited": {
+          "scaledScore": 27.0,
+          "possibleScore": 236.0
+        },
+        "loginCount": 75,
+        "firstLogin": 1498765991313,
+        "lastLogin": 1498766337313,
+        "activityAccessSummaries": [
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:assessment",
+            "activitiesAccessCount": 20.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:homework",
+            "activitiesAccessCount": 5.0
+          },
+          {
+            "activityGroupUri": "mindtap:activity-group:activity-type:reading",
+            "activitiesAccessCount": 2.0
+          }
+        ],
+        "performanceLevel": "MEDIUM"
+      }
+    ],
+    "highPerformersSummary": {
+      "averageScore": 0.9604641234942026,
+      "averageSecondsVisited": 177844.8,
+      "averageLogins": 61.6,
+      "averageActivitiesVisited": {
+        "scaledScore": 63.6,
+        "possibleScore": 236.0
+      },
+      "activityAverageAccessSummaries": [
+        {
+          "activityGroupUri": "mindtap:activity-group:activity-type:assessment",
+          "activitiesAccessCount": 18.8
+        },
+        {
+          "activityGroupUri": "mindtap:activity-group:activity-type:homework",
+          "activitiesAccessCount": 5.8
+        },
+        {
+          "activityGroupUri": "mindtap:activity-group:activity-type:reading",
+          "activitiesAccessCount": 38.0
+        }
+      ]
+    }
+  },
+  "instructors": {
+    "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:-177": {
+      "userIdentifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:-177",
+      "firstName": null,
+      "lastName": null,
+      "email": null
+    }
+  },
+  "teachingAssistants": {},
+  "students": {
+    "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1213": {
+      "userIdentifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1213",
+      "firstName": "Ireland",
+      "lastName": "Clarke",
+      "email": "cap-er-qa-student-06@cengage.com"
+    },
+    "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:10d2": {
+      "userIdentifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:10d2",
+      "firstName": "Quinton",
+      "lastName": "Mckinney",
+      "email": "cap-er-qa-student-04@cengage.com"
+    },
+    "dd1a64a2698c24bf:-16044e77:15a3ddc4023:8cf": {
+      "userIdentifier": "dd1a64a2698c24bf:-16044e77:15a3ddc4023:8cf",
+      "firstName": "Brooks",
+      "lastName": "Everett",
+      "email": "cap-er-qa-student-08@cengage.com"
+    },
+    "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:e56": {
+      "userIdentifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:e56",
+      "firstName": "Cloe",
+      "lastName": "Thornton",
+      "email": "cap-er-qa-student-03@cengage.com"
+    },
+    "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1193": {
+      "userIdentifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1193",
+      "firstName": "Jace",
+      "lastName": "Miranda",
+      "email": "cap-er-qa-student-05@cengage.com"
+    },
+    "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1494": {
+      "userIdentifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1494",
+      "firstName": "Mary",
+      "lastName": "Rubio",
+      "email": "cap-er-qa-student-09@cengage.com"
+    },
+    "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:956": {
+      "userIdentifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:956",
+      "firstName": "Darren",
+      "lastName": "Shaffer",
+      "email": "cap-er-qa-student-02@cengage.com"
+    },
+    "dd1a64a2698c24bf:-16044e77:15a3ddc4023:7da": {
+      "userIdentifier": "dd1a64a2698c24bf:-16044e77:15a3ddc4023:7da",
+      "firstName": "Karlie",
+      "lastName": "Calhoun",
+      "email": "cap-er-qa-student-07@cengage.com"
+    },
+    "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:7e9": {
+      "userIdentifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:7e9",
+      "firstName": "Zaid",
+      "lastName": "Dorsey",
+      "email": "cap-er-qa-student-01@cengage.com"
+    },
+    "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1574": {
+      "userIdentifier": "651d1b13e44c13f9:-eda1fb4:15a3dd9c2bc:1574",
+      "firstName": "Jocelynn",
+      "lastName": "Roberson",
+      "email": "cap-er-qa-student-10@cengage.com"
+    }
+  }
+}

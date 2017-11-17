@@ -1,0 +1,58 @@
+[
+  {
+    "eventAction": "LAUNCH",
+    "eventCategory": "PROGRESS",
+    "eventLabel": "NA",
+    "courseKey": "MTPQN2PPN2LC",
+    "userSSOGuid": "009a610138480b98:7ca34c34:159cb999318:-2556",
+    "productPlatform": "MT3",
+    "environment": "integration",
+    "coreTextISBN": "9781418072520",
+    "courseUri": "mindtap:mindtap-int.cengage.com:course:isbn:9781133354215:course-key:MTPQN2PPN2LC",
+    "eventSource": "GTM",
+    "localTime": "2017-02-16T08:57:15.000Z",
+    "eventValue": 1
+  },
+  {
+    "eventAction": "LAUNCH",
+    "eventCategory": "GLOSSARY",
+    "eventLabel": "NA",
+    "courseKey": "MTPQN2PPN2LC",
+    "userSSOGuid": "009a610138480b98:7ca34c34:159cb999318:-2556",
+    "productPlatform": "MT3",
+    "environment": "integration",
+    "coreTextISBN": "9781418072520",
+    "courseUri": "mindtap:mindtap-int.cengage.com:course:isbn:9781133354215:course-key:MTPQN2PPN2LC",
+    "eventSource": "GTM",
+    "localTime": "2017-02-16T09:00:13.000Z",
+    "eventValue": 1
+  },
+  {
+    "eventAction": "LAUNCH",
+    "eventCategory": "MERRIAM-WEBSTER DICTIONARY LOOKUP",
+    "eventLabel": "NA",
+    "courseKey": "MTPPR1GPNWJG",
+    "userSSOGuid": "009a610138480b98:7ca34c34:159cb999318:-2556",
+    "productPlatform": "MT3",
+    "environment": "integration",
+    "coreTextISBN": "9781418072520",
+    "courseUri": "mindtap:mindtap-int.cengage.com:course:isbn:9781133354215:course-key:MTPPR1GPNWJG",
+    "eventSource": "GTM",
+    "localTime": "2017-02-17T09:43:44.000Z",
+    "eventValue": 1
+  },
+  {
+    "eventAction": "LOGIN",
+    "eventCategory": "LOGIN",
+    "eventLabel": "NA",
+    "courseKey": "MTPQN2PPN2LC",
+    "userSSOGuid": "009a610138480b98:7ca34c34:159cb999318:-2556",
+    "productPlatform": "MT3",
+    "environment": "integration",
+    "coreTextISBN": "9781418072520",
+    "courseUri": "mindtap:mindtap-int.cengage.com:course:isbn:9781133354215:course-key:MTPQN2PPN2LC",
+    "eventSource": "GTM",
+    "localTime": "2017-02-16T08:57:15.000Z",
+    "eventValue": 1
+  }
+]

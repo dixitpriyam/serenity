@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><cms:provide-activity-aggregates-message xmlns:cms="http://cengage.com/analytics/cms/types/">
+  <cms:activity-aggregate activity-aggregate-uri="mindtap:qa-automation:staging:course:95cec08f-1fc8-4c8c-a257-a5a00c117cbb:dd1a64a2698c24bf:-16044e77:15a3ddc4023:7da:student-outcome-summary" activity-uri="mindtap:course:usercoursescore" course-uri="mindtap:qa-automation:staging:course:95cec08f-1fc8-4c8c-a257-a5a00c117cbb" system-uri="analytics:system:covalent" user-identifier="dd1a64a2698c24bf:-16044e77:15a3ddc4023:7da">
+    <cms:take-rollup-algorithm>NONE</cms:take-rollup-algorithm>
+    <cms:override possible-override="3142" possible-score-mode="REPLACE" score-mode="REPLACE" score-override="0.9695180971023"/>
+  </cms:activity-aggregate>
+</cms:provide-activity-aggregates-message>
